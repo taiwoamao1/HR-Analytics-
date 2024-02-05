@@ -3,7 +3,7 @@ Application of Business Analytics in HR in the Automotive Industry.
 ---
 ## Table of contents
 ---
-- [project overview](#project-overview)
+- [Project overview](#project-overview)
 - [Data sources](#data-sources)
 - [Tools](#tools)
 - [Data preparation](#data-preparation)
